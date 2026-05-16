@@ -1,6 +1,6 @@
 # ⚽ Predict-Football-Match-Winners
 
-![Dashboard Preview](docs/dashboard.png)
+![Dashboard Preview](docs/dashboard_v2.png)
 
 ### 🏆 Transform Football Data into Winning Insights
 
