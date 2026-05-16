@@ -1,5 +1,7 @@
 # ⚽ Predict-Football-Match-Winners
 
+![Dashboard Preview](docs/dashboard.png)
+
 ### 🏆 Transform Football Data into Winning Insights
 
 A production-grade Machine Learning platform that predicts the outcomes of Premier League matches. This system handles everything from automated data collection and professional-grade engineering to real-time AI predictions.
