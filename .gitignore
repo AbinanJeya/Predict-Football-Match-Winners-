@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Database
+postgres_data/
+
+# MLflow
+mlflow.db
+mlflow-artifacts/
+mlruns/
+
+# IDE
+.vscode/
+.idea/
+
+# Local model checkpoints
+api/model_checkpoint/
+
+# Output files
+output.txt

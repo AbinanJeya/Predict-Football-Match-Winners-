@@ -1,0 +1,17 @@
+pandas
+requests
+beautifulsoup4
+lxml
+sqlalchemy
+psycopg2-binary
+scikit-learn
+xgboost
+mlflow
+fastapi
+uvicorn
+pydantic
+prefect
+prometheus-client
+python-dotenv
+pytest
+docker
